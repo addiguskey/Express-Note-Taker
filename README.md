@@ -1,4 +1,4 @@
-# Express-Note-Taker
+# < Express-Note-Taker >
 
 # User Story
 
@@ -8,21 +8,28 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Table of Contents
 
+- [Links](#links)
 - [Installation](#installation)
 - [Preview](#preview)
 - [Usage](#usage)
 - [Badges](#badges)
 - [Questions](#questions)
 
+# Links
+
+- [Live link]()
+
 # Installation
 
 1. Clone this SSH Key link: "git@github.com:addiguskey/Express-Note-Taker.git" on your Terminal (Mac) or gitBash(Windows).
 
-2. This app uses [Express](https://www.npmjs.com/package/express). You can simply install these by running "npm i" on your Integrated Terminal in VS-Code
+2. This app uses [Express](https://www.npmjs.com/package/express). You can simply install npm Express by running "npm i" on your Integrated Terminal in VS-Code
 
-3. Step by step guide video on how to use this app after cloning, is attached below in [Usage](#usage)
+3. Click [Preview](#preview) for a demo of this application.
 
 # Preview
+
+![demo](./Develop/public/assets/images/demo.gif)
 
 # Usage
 
@@ -45,7 +52,7 @@ GIVEN a note-taking application
 
 # Badges
 
-![JS](https://img.shields.io/static/v1?label=JavaScript&message=66.6%&color=yellow) ![HTML](https://img.shields.io/static/v1?label=HTML&message=33.4%&color=red)
+![JS](https://img.shields.io/static/v1?label=JavaScript&message=70.4%&color=yellow) ![HTML](https://img.shields.io/static/v1?label=HTML&message=20.1%&color=red) ![CSS](https://img.shields.io/static/v1?label=CSS&message=9.5%&color=blueviolet)
 
 # Questions
 
