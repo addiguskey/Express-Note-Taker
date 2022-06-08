@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 const uuid = require("./helpers/uuid");
 
-//parsedNotes defined on line 105 in funciton pdateDb
+//parsedNotes defined on line 105 in  udateDb funciton
 let parsedNotes;
 // newNote defined on line 67
 let newNote;
