@@ -29,7 +29,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Preview
 
-![demo](./Develop/public/assets/images/demo.gif)
+![demo](./public/assets/images/demo.gif)
 
 # Usage
 
