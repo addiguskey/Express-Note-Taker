@@ -10,7 +10,7 @@ let newNote;
 //noteId defined on line 46
 let noteId;
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 //MIDDLEWARE
